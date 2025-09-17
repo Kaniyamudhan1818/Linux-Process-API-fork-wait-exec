@@ -72,8 +72,8 @@ int main() {
 
 ## OUTPUT
 
-
 ![Alt text](../img/1.png)
+
 
 
 
